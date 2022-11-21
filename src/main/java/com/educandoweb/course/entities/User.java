@@ -30,6 +30,7 @@ public class User implements Serializable {
 		this.id = id;
 		this.name = name;
 		this.email = email;
+		this.phone = phone;
 		this.password = password;
 	}
 
